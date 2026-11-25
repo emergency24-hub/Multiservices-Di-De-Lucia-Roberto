@@ -1,0 +1,13 @@
+MULTISERVICES DI DE LUCIA ROBERTO — SITO WEB
+
+APERTURA LOCALE
+Estrai lo ZIP e apri index.html. Le pagine dei servizi, i contatti e le immagini funzionano anche in locale. Su desktop, le schede scorrono in una riga di tre colonne. Su smartphone restano impilate.
+
+MAPPA
+Con la connessione Internet attiva, Google Maps si carica automaticamente quando ti avvicini alla sezione Contatti. Il collegamento «Apri in Google Maps» resta disponibile.
+
+PUBBLICAZIONE E SEO
+Carica index.html, script.js, style.css, robots.txt, sitemap.xml e le cartelle assets e servizi nella cartella principale dell’hosting. I riferimenti canonici, la sitemap e robots.txt usano https://idraulicomerate.site/. Se il dominio definitivo cambia, aggiorna anche questi riferimenti e gli URL nei metadati e nei dati strutturati. Le pagine dei servizi hanno titoli, descrizioni e URL propri. Dopo la pubblicazione, invia sitemap.xml in Google Search Console.
+
+MODIFICHE
+I testi sono nelle pagine HTML. Aggiorna i contatti nella home, nelle pagine dei servizi e nei dati strutturati della home. Per cambiare l’indirizzo della mappa, aggiorna anche il collegamento in index.html e l’indirizzo in script.js.
